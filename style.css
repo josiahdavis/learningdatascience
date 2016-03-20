@@ -1,4 +1,4 @@
-button {
+button, button.loading {
   border: none;
   cursor: pointer;
   border-radius: 3px;
