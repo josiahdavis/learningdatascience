@@ -2,18 +2,15 @@ button {
   border: none;
   cursor: pointer;
   border-radius: 3px;
-  /*padding: 10px 14px;*/
+  padding: 10px 14px;
   height: 35px;
   width: 120px;
-  /*height: auto;*/
   background-color: #17becf;
   color: #FFFFFF;
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
   margin-left: 5px;
-  /*margin-top: 5px;*/
-  /*background-image: linear-gradient(-180deg, #17B7C7 0%, #17becf 100%);*/
 }
 
 body {
@@ -31,18 +28,13 @@ input {
   border-radius: 3px;
   border: none;
   background-color: #FFFFFF;
-  /*clear: left;*/
 }
 
 img {
   max-width: 350px;
-  /*margin-bottom: 30px;*/
 }
 
 .label-header {
-  /*font-size: 40;
-  font-family: Helvetica;*/
-  /*color: #515151;*/
   font-size: 30px;
   font-family: Helvetica;
   font-weight: 400;
@@ -54,7 +46,6 @@ img {
   font-size: 13;
   font-family: Helvetica;
   text-transform: uppercase;
-  /*font-style: italic;*/
   color: #515151;
 }
 
@@ -75,7 +66,6 @@ img {
 
   img {
     max-width: 600px;
-    /*margin-bottom: 30px;*/
   }
   .container {
     text-align: center;
