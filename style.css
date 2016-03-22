@@ -23,7 +23,6 @@ input {
   width: 300px;
   padding: 10px;
   height: 35px;
-  text-decoration-color:
   font-family: Helvetica;
   border-radius: 3px;
   border: none;
@@ -32,6 +31,7 @@ input {
 
 img {
   max-width: 350px;
+
 }
 
 .label-header {
@@ -62,9 +62,13 @@ img {
   margin-left: 10px;
 }
 
+.form-group {
+  vertical-align: top;
+}
+
 @media screen and (min-width: 610px) {
 
-  img {
+img {
     max-width: 600px;
   }
   .container {
