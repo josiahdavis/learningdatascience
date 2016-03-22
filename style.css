@@ -1,16 +1,18 @@
-button, button.loading {
+button {
   border: none;
   cursor: pointer;
   border-radius: 3px;
   padding: 10px 14px;
-  height: auto;
+  height: 35px;
+  width: 120px;
+  /*height: auto;*/
   background-color: #17becf;
   color: #FFFFFF;
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
   margin-left: 5px;
-  margin-top: 5px;
+  /*margin-top: 5px;*/
   /*background-image: linear-gradient(-180deg, #17B7C7 0%, #17becf 100%);*/
 }
 
@@ -22,13 +24,13 @@ input {
   font-size: 14px;
   width: 300px;
   padding: 10px;
-  height: auto;
+  height: 35px;
   text-decoration-color:
   font-family: Helvetica;
   border-radius: 3px;
   border: none;
   background-color: #FFFFFF;
-  clear: left;
+  /*clear: left;*/
 }
 
 img {
