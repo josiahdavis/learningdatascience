@@ -107,16 +107,16 @@ footer hr {
 
 @media screen and (min-width: 50em) {
   header {
-    height: 700px;
+    height: 500px;
   }
 
   header h1 {
     font-size: 3.2em;
-    top: 540px;
+    top: 370px;
   }
 
   header p {
-    top: 530px;
+    top: 360px;
     font-size: 1.5em;
   }
 }
